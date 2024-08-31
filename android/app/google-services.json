@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "347814344271",
+    "project_id": "speechtotextapp-46ef3",
+    "storage_bucket": "speechtotextapp-46ef3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347814344271:android:f1552b40181964db6b1c3a",
+        "android_client_info": {
+          "package_name": "com.example.audio_to_text_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs8dxPqSdgY-3QZyhRmG7LUc8qaiQM50k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
